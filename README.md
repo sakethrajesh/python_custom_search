@@ -16,7 +16,7 @@ create python virtual envirnment and install dependences
   .\env\Scripts\activate
 ```
 ```bash
-  git clone ...
+  git clone ... or fork the repo
   cd python_custom_search
   pip install -r requirements.txt
   
